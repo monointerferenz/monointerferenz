@@ -2,10 +2,7 @@
 <rss version="2.0">
 <channel>
   <title>monointerferenz</title>
-  <link>monointerferenz.de</link>
-  <description>monointerferenz</description>
-
-  <item>
+<item>
     <title>Systems</title>
     <description>Signals, materials, organisms, and computational structures are approached as interconnected environments rather than isolated mediums.</description>
   </item>
